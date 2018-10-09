@@ -1,5 +1,5 @@
 package p1
 
 func Func2() string {
-	return "[p1] Func2 v1.0.8"
+	return "[p1-V3!!!] Func2 v3.0.0"
 }
